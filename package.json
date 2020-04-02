@@ -1,0 +1,7 @@
+{
+    "name": "com.pomelo.testpackage",
+    "displayName": "TestPackage",
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "description": "Example package for use with the Unity 2018.4 package manager."
+}
